@@ -5,3 +5,4 @@ indent_style = space
 indent_size = 2
 end_of_line = lf
 # match the style used in the rest of the module
+# clarify the control flow
