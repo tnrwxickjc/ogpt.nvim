@@ -1,1 +1,2 @@
 Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
+# guard against empty input
