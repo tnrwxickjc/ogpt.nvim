@@ -6,3 +6,4 @@ Notes and usage details for ogpt.nvim.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
