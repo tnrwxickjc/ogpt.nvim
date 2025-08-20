@@ -15,3 +15,4 @@ Notes and usage details for ogpt.nvim.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
