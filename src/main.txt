@@ -19,3 +19,4 @@ Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
 # match the style used in the rest of the module
 # guard against empty input
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
