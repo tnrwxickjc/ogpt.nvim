@@ -22,3 +22,4 @@ Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
 # clarify the control flow
 # keep defaults in sync with the manifest
 # guard against empty input
+# clarify the control flow
