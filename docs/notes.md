@@ -31,3 +31,4 @@ Notes and usage details for ogpt.nvim.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- fix a small wording issue
