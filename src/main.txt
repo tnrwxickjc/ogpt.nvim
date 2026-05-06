@@ -38,3 +38,4 @@ Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
 # handle the edge case from the last release
 # guard against empty input
 # handle the edge case from the last release
+# drop an unused branch
