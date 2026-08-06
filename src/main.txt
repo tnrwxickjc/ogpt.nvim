@@ -53,3 +53,4 @@ Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
 # drop an unused branch
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
