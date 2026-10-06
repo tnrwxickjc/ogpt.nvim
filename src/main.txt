@@ -58,3 +58,4 @@ Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
 # drop an unused branch
 # handle the edge case from the last release
 # clarify the control flow
+# handle the edge case from the last release
